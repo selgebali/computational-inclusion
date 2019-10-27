@@ -3,8 +3,6 @@ This resource is a list of tools and advice to increase inclusion in computation
 
 Visit the [Wiki](https://github.com/selgebali/computational-inclusion/wiki) to see the linked resources.
 
-Welcome to the computational-inclusion wiki!
-
 Group: Sara El-Gebali and Offray Vladimir Luna
 
 This project is an extension of the initial list of Do's and Don’ts in computational training, see Sara's [GitHub Repo](https://github.com/selgebali/CCMcr19_dos). The aim of this resource is to provide a compilation of advice, good practices, and tools collected from trainers and students in computational training events around the globe. 
