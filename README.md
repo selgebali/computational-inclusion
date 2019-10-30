@@ -1,7 +1,7 @@
 # Computational-Inclusion
 This resource is a list of tools and advice to increase inclusion in computational settings such as training events and workshops.
 
-Visit the [Wiki](https://github.com/selgebali/computational-inclusion/wiki) to see the linked resources.
+## Visit the [Wiki](https://github.com/selgebali/computational-inclusion/wiki) to see the linked resources.
 
 Group: Sara El-Gebali and Offray Vladimir Luna
 
@@ -22,5 +22,3 @@ This resource provides advice and solutions for computational training events.
   - [Logistics](https://github.com/selgebali/computational-inclusion/wiki/logistics)
   - [Behavior & Conduct](https://github.com/selgebali/computational-inclusion/wiki/Behaviour-and-Conduct)
   - [Links and Resources](https://github.com/selgebali/computational-inclusion/wiki/Links-and-Resources)
-
-[Live wiki](https://docutopia.tupale.co/eLifeSprint19:teaching#)
